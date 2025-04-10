@@ -1,6 +1,6 @@
 # ALIEN HEAD
 
-## Meu primeiro jogo criado com Godot 3 🚀
+## Meu primeiro jogo criado com Godot 3
 
 <img src="https://github.com/carlosbruno82/alien-head/blob/main/github/alien-head.png">
 
@@ -10,7 +10,8 @@
 
 ➡️ [Clique aqui para jogar!](https://carlosbruno82.github.io/alien-head/)
 
-Sem precisar instalar nada — só abrir e se divertir! 🎯
+> ⚠️ **ATENÇÃO:** No momento, o jogo só funciona em **computadores (PC)**.  
+> Não é compatível com celular ou tablet!
 
 ---
 
